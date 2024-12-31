@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 📊 GitHub Stats
 ![Mahib's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahibAbrar222&show_icons=true&theme=dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=MahibAbrar222)
+![Mahib's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=MahibAbrar222)
 
 
 ## 🛠️ Technologies & Tools
