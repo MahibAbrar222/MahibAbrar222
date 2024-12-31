@@ -3,10 +3,11 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on creating impactful and efficient solutions through code. I am now want to contribute in open soure projects. Below is a little bit about me and my work.
 
 ## 🔭 What I'm Currently Working On
-- Coming Soon
+- Thinking about Project Idea
 
 ## 🌱 What I'm Learning
 - **ReactJS**: I am learning reactjs for website's frontend.
+- **ExpressJS**: A web application framework in nodejs.
 
 ## 💬 Ask Me About
 - **Tech Stack**: 
@@ -25,12 +26,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## 📊 GitHub Stats
 ![Mahib's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahibAbrar222&show_icons=true&theme=dark)
 
-<!--
-## 🛠️ Technologies & Tools
-- **Languages**: List of programming languages you know.
-- **Frameworks**: List of frameworks you have experience with.
-- **Tools**: List of tools you use regularly.
 
+## 🛠️ Technologies & Tools
+- **Languages**: `python`,`php`,`javascipt`,`html`,`css`
+- **Frameworks**: `Django`, `Flask`, `express`
+- **Tools**: `Visual Studio Code`, `Git`
+<!--
 ## 🤝 Contributions
 - Contributed to [Open Source Project](https://github.com/OpenSourceProject): Brief description of your contribution.
 - Contributed to [Other Project](https://github.com/OtherProject): Brief description of your contribution.
