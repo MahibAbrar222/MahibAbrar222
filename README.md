@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 📫 How to Reach Me
 - **Email**: [mahibabrar123@gmail.com](mailto:mahibabrar123@gmail.com)
+- **Discord**: (Id: `mahib_83323`)
 
 ## 📊 GitHub Stats
 ![Mahib's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahibAbrar222&show_icons=true&theme=dark)
