@@ -1,6 +1,6 @@
 # Hi there, I'm Mahib Abrar! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on creating impactful and efficient solutions through code. I am now want to contribute in open soure projects. Below is a little bit about me and my work.
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on creating impactful and efficient solutions through code. I am from 🇧🇩Bangladesh. I am now want to contribute in open soure projects. Below is a little bit about me and my work.
 
 ## 🔭 What I'm Currently Working On
 - **[BanglaDeen](https://github.com/MahibAbrar222/BanglaDeen)**: A comprehensive static website providing Islamic resources in Bangla.
